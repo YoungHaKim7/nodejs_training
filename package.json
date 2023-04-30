@@ -1,0 +1,19 @@
+{
+  "name": "wetube",
+  "description": "The best way to watch videos.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoungHaKim7/nodejs_training.git"
+  },
+  "author": "Nomad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YoungHaKim7/nodejs_training/issues"
+  },
+  "homepage": "https://github.com/YoungHaKim7/nodejs_training#readme"
+}
